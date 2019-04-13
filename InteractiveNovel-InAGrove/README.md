@@ -1,4 +1,5 @@
 """To view the project, start from file 'index.html' in folder 'Home'"""
+"""Thank you for your interest!"""
 # Interactive Novel - In a Grove
 # Communications Lab course project
 # Original Novel by Akutagawa Ryunosuke
