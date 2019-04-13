@@ -3,7 +3,7 @@
 # Original Novel by Akutagawa Ryunosuke
 # Adaptation by Jingyi Zhu and Luna Wan
 # Visual elements - Characters by Jingyi Zhu
-                  - Background images by Luna Wan
+#                 - Background images by Luna Wan
 # Interaction Design - Jingyi Zhu
 # Coding - Jingyi Zhu
-# Bakcground Music - found online and inserted by Luna Wan (credits see Credit.txt)
+# Bakcground Music - found online and inserted by Luna Wan (credits see file "Credits")
